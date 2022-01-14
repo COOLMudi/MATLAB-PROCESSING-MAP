@@ -1,0 +1,2 @@
+# MATLAB-PROCESSING-MAP
+Developing Processing Map under hot metalworking conditions for Aluminum-Magnesium Alloys. Metallurgical Conditions such as Temperature ,Strain and Strain Rate ; are used to develop 2D contour map which shows efficient workable metallurgical parameter region (yellow shaded region) and instable condition (blue shaded region). Its a Mathematical Modelling and Data Visualization project for Mechanical Metallurgical Course. Project is inspired from Dr. YVK Prasad 's work.
